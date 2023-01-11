@@ -1,4 +1,4 @@
-# sh-statping-ng
+# serverless-statping-ng
 
 ## App
 https://github.com/statping-ng/statping-ng
@@ -7,7 +7,7 @@ https://github.com/statping-ng/statping-ng
 
 #### Copy these code to Replit's Shell and ←
 
-   `git clone https://github.com/gityzon/sh-statping-ng && mv -b sh-statping-ng/* ./ && mv -b sh-statping-ng/.[^.]* ./ && rm -rf *~ && rm -rf sh-statping-ng`
+   `git clone https://github.com/gityzon/serverless-statping-ng && mv -b serverless-statping-ng/* ./ && mv -b serverless-statping-ng/.[^.]* ./ && rm -rf *~ && rm -rf serverless-statping-ng`
 
 #### After "Loading Nix environment..." is done, ▶RUN!!!
 
