@@ -11,5 +11,8 @@ https://github.com/statping-ng/statping-ng
 
 #### After "Loading Nix environment..." is done, ▶RUN!!!
 
+## Warn
+Please read "main.sh" for more information.
+
 ## ENV
 https://github.com/statping-ng/statping-ng/wiki/Environment-Variables
